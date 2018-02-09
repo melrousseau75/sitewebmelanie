@@ -11,6 +11,7 @@ body{
     text-align: center;
     background-image: url('../img/background.jpg');
     background-repeat:no-repeat;
+    background-size: cover;
     color: white;
 }
 .navigation{
@@ -42,7 +43,7 @@ li:last-child{
     margin-bottom: 70px;
 }
 .part1{
-    height: 360px;
+    height: 325px;
 }
 .part2{
     height: 310px;
@@ -136,7 +137,7 @@ hr{
   }
 /* A PROPOS */
 .part1 h3{
-    padding-top: 30px;
+    padding-top: 50px;
     margin: 0 auto;
 }
 .photo{
@@ -173,7 +174,7 @@ hr{
 .phrase{
     float: left;
     width: 530px;
-    font-size: 20px;
+    font-size: 18px;
 }
 .phrase p{
     margin: 0 auto;
